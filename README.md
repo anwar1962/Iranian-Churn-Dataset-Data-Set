@@ -3,3 +3,4 @@ This dataset is randomly collected from an Iranian telecom companyâ€™s data
 
 Citation:  Jafari-Marandi, R., Denton, J., Idris, A., Smith, B. K., & Keramati, A. (2020). Optimum Profit-Driven Churn Decision Making: Innovative Artificial Neural Networks in Telecom Industry. Neural Computing and Applications.
 
+This is my first project to post, I am no expert by any means. Please send me suggestions on how I could improve this post and what else I can add. 
